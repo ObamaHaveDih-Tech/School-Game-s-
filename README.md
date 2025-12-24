@@ -1,6 +1,8 @@
 # School-Game-s-
+
 i have been working on this for the entire winter break.
 pls enjoy and dont get it blocked (0.00012 gpa moments 💔)
+
 only use game file (web-ports) if the link files are blocked.
 instructions
 - go to a game file you want to play (or link file)
